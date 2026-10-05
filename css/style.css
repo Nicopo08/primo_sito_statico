@@ -1,0 +1,103 @@
+   body{
+    background: linear-gradient(to right, #ffbd66, #895eff);
+   }
+   form{
+     font-size:larger;
+   }
+   .file1{
+               font-family: Arial, Helvetica, sans-serif;
+        border: 4mm ridge rgba(139, 75, 2, 0.6);
+         background-color: rgb(255, 187, 1);
+            width: 100%;
+            max-width: 600px;
+            border-radius: 15px;
+            box-shadow: 0 4px 8px #333333;
+            margin-left: 650px;
+            margin-top: 100px ; 
+            padding-bottom:50px;
+            text-align: center;
+            box-sizing:border-box;
+    }
+    .file2{
+                       font-family:'Courier New', Courier, monospace;
+                       font-size: large;
+                       font-weight: 300;
+        border:  10mm groove rgba(2, 139, 43, 0.6);
+         background-color: rgb(1, 255, 86);
+            width: 100%;
+            max-width: 600px;
+            border-radius: 15px;
+            box-shadow: 0px 25px 20px #eeff00;
+            margin-left: 650px;
+            margin-top: 100px ; 
+            padding-bottom:50px;
+            text-align: center;
+            box-sizing:border-box;
+    }
+    .file3{
+                               font-family:'Courier New', Courier, monospace;
+                       font-size: large;
+                       font-weight: 300;
+        border:  10mm groove rgba(0, 36, 112, 0.6);
+         background-color: rgb(1, 204, 255);
+                     text-shadow: 0 0 10px #FFD700, 
+                         0 0 20px #FFA500, 
+                         0 0 30px #FF6347;
+            color: #000000;
+            width: 100%;
+            max-width: 600px;
+            border-radius: 15px;
+            box-shadow: 0px 25px 20px #fa82e6;
+            margin-left: 650px;
+            margin-top: 100px ; 
+            padding-bottom:50px;
+            text-align: center;
+            box-sizing:border-box;
+    }
+        .file4{
+            h2{
+                background-color: #7bff47;
+            }
+            p#paragrafo1{
+                  background-color: #7bff47;
+            }
+                        h3{
+                background-color: #f3ff47;
+            }
+            p#paragrafo2{
+                  background-color: #f3ff47;
+            }
+                        h4{
+                background-color: #FF6347;
+            }
+            p#paragrafo3{
+                  background-color: #FF6347;
+            }
+                               font-family:'Courier New', Courier, monospace;
+                       font-size: large;
+                       font-weight: 300;
+        border:  10mm groove rgba(21, 0, 112, 0.6);
+         background-color: rgb(111, 1, 255);
+                     text-shadow: 0 0 10px #00ffea, 
+                         0 0 20px #00aeff, 
+                         0 0 30px #4772ff;
+            color: #000000;
+            width: 100%;
+            max-width: 600px;
+            border-radius: 15px;
+            box-shadow: 0px 25px 20px #fa82e6;
+            margin-left: 650px;
+            margin-top: 100px ; 
+            padding-bottom:50px;
+            text-align: center;
+            box-sizing:border-box;
+    }
+    table,
+    th,
+    td {
+        table-layout: auto;
+        margin-left: 120px;
+        margin-bottom: 30px;
+        width: 200px;
+        border: 1.5px solid rgb(87, 87, 87);
+    }
